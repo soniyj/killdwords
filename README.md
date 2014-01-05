@@ -29,6 +29,6 @@ At the moment is possible to play in order to test it, there are different known
 
 <strong> Download </strong>
 <ul>
-At the moment is possible to download a pre-built version for <em>Windows</em>, but you can download the code and compile it for Linux, a Linux version will be available soon.
-<a href="https://github.com/soniyj/killdwords/blob/master/dist/windows/"> Windows Alpha Version </a>
+At the moment is possible to download a pre-built version for
+<a href="https://github.com/soniyj/killdwords/blob/master/dist/windows/">Windows</a>, but you can download the code and compile it for Linux, a Linux version will be available soon.
 </ul>
