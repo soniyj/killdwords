@@ -3,9 +3,14 @@ killdwords
 
 Welcome to Kill The Words a.k.a "killdwords".
 
-This is my first game that uses the SFML Library. The game is an Alpha version, is not completed yet.
+This is my first game that uses the SFML Library. The game is an Alpha version.
 
 At the moment is possible to play in order to test it, there are different known issues, you can play within a limited set of words.
+
+<strong> Plot </strong>
+<ul>
+In this game you have to destroy all words that are shown onto the screen before these destroy your tanks.
+</ul>
 
 <strong> Features Alpha Version </strong>
 <ul>
