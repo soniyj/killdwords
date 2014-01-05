@@ -28,6 +28,7 @@ At the moment is possible to play in order to test it, there are different known
 </ul>
 
 <strong> Download </strong>
-</br>
+<ul>
 At the moment is possible to download a pre-built version for <em>Windows</em>, but you can download the code and compile it for Linux, a Linux version will be available soon.
-<a href="https://github.com/soniyj/killdwords/blob/master/dist/windows/killdwords-0.1.0-a.zip"> Windows Alpha Version </a>
+<a href="https://github.com/soniyj/killdwords/blob/master/dist/windows/"> Windows Alpha Version </a>
+</ul>
