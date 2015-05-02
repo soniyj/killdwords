@@ -1,7 +1,7 @@
 killdwords
 ==========
 
-Welcome to Kill The Words a.k.a "killdwords".
+Welcome to Kill The Words a.k.a "killdwords" Bera version 0.01.
 
 This is my first game that uses the SFML Library. The game is an Alpha version.
 
