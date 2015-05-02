@@ -15,6 +15,8 @@ In this game you have to destroy all words that are shown onto the screen before
 <strong> Features Alpha Version </strong>
 <ul>
 <li> Entire Game Loop </li>
+<li> Object Collisions </li>
+<li> Multidirectional Scrolling </li>
 <li> Menu Navigation </li>
 <li> Sounds </li>
 </ul>
